@@ -2,8 +2,11 @@
 
 This repository contains training of res-net 50 on Distracted Driver. The dataset is taken from a [kaggle competition](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data).
 
-* To run the jupyter notebook download the dataset from kaggle and extract it in the current directory.
-** __The submission obtained a public score of 0.46098 rank around (top 20 %)__
+** The code is in training.ipynb.
+
+** To run the jupyter notebook download the dataset from kaggle and extract it in the current directory.
+
+*** __The submission obtained a public score of 0.46098 rank around (top 20 %)__
 
 ## Dataset Overview
 
