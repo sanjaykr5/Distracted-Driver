@@ -2,6 +2,10 @@
 
 This repository contains training of res-net 50 on Distracted Driver. The dataset is taken from a [kaggle competition](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data).
 
+## Service used for training model
+
+__The model is trained on p2.xlarge Amazon Web Services EC2 instance.The GPU is K100 Nvidia GPU. The training time was 20 minutes.__ 
+
 * The code is in training.ipynb.
 
 * To run the jupyter notebook download the dataset from kaggle and extract it in the current directory.
